@@ -1,5 +1,8 @@
 package com.saggu;
 
+
+//Input: this is our country
+//Output :country our is this
 import java.util.Scanner;
 
 public class ReverseString {
